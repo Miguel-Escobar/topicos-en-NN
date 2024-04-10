@@ -6,4 +6,3 @@ Gracias a harta matraca que ya no alcancé a anotar tenemnos que una PINNS funci
 $ integral_Omega |R_(t b) (x)|^2 d x  - sum_(n=1)^(N_(t b)) omega_n^(t b) |R_(t b, Phi) (hat(x)_n)|^2 <= C/N_(t b)^gamma $
 
 Con $gamma$ > 0 (ej: 1/2).
-
